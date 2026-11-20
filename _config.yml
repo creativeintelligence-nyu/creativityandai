@@ -1,0 +1,39 @@
+title: Creativity and AI
+description: Creativity and Artificial Intelligence (EDCT-UE 1042), NYU ALT/ECT, Spring 2026
+
+# Theme: Just the Docs, loaded as a remote theme (works with GitHub Pages "Deploy from a branch").
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# If you deploy to https://<user>.github.io/<repo>, set baseurl to "/<repo>".
+# Leave both empty for a custom domain or a user site (<user>.github.io).
+url: ""
+baseurl: ""
+
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  "Join class on Zoom":
+    - "https://nyu.zoom.us/j/97231632894?pwd=qO5zzCZgzWF6HyFkGVb2kfeK5QZgY3.1"
+  "Important Links":
+    - "https://docs.google.com/document/d/1ksnpg01cB29CLpbl_iam7d07-9Dv8kIpzw1z5XYzcFQ/edit?tab=t.0#heading=h.mr7c6fkw5fyc"
+aux_links_new_tab: true
+
+footer_content: "Creativity and Artificial Intelligence &middot; EDCT-UE 1042 &middot; NYU ALT/ECT &middot; Spring 2026"
+
+callouts:
+  note:
+    title: Note
+    color: blue
+  important:
+    title: Important
+    color: red
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
