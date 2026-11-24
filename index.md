@@ -19,21 +19,22 @@ Thursday 3:15 PM - 4 PM
 Are modern AI systems capable of true creativity or are they simply stochastic parrots, unthinkingly repeating sequences in their training data? We begin with an examination of human creativity and the science of human cognition, followed by an accessible review of the inner workings of modern generative transformer models with a focus on pattern recognition and creative pattern expansion. The course concludes with group or individual projects applying new AI knowledge and skills to creative tasks.
  
 ### Weekly Outline
-1.  Creating with AI - Explorations 
-2.  Human Cognition: Thinking Fast and Slow
-3.  Human Creativity
-4.  Creativity with Technology
-5.  The Evolution of Modern Generative AI Systems
-6.  How AI Transformers Work
-7.  How Large Language Models work & don’t work
-8.  Reflecting on Using AI in Creative Work 
-9.  Project Pitches & Creating with AI
-10.  Training RAG Models & Fine Tuning LLMs
-11. Project Prototype Demos 
-12. Multi-agent Systems
-13. Project Presentations & Critiques 1 
-14. Project Presentations & Critiques 2
- 
+* [Week 1) Creating with AI](#week-1-creating-with-ai) – Jan 22
+* [Week 2) Human Cognition: Thinking Fast and Slow](#week-2-human-cognition-thinking-fast-and-slow) – Jan 29
+* [Week 3) Human Creativity](#week-3-human-creativity) – Feb 5
+* [Week 4) Creativity with Technology](#week-4-creativity-with-technology) – Feb 12
+* [Week 5) The Evolution of Modern Generative AI Systems](#week-5-the-evolution-of-modern-generative-ai-systems) – Feb 19
+* [Week 6) How Transformers Work: Getting Deep into Deep Learning](#week-6-how-transformers-work-getting-deep-into-deep-learning) – Feb 26
+* [Week 7) How LLMs & Diffusion Models Work & Don't Work](#week-7-how-llms--diffusion-models-work--dont-work) – Mar 5
+* [Week 8) Reflecting on Using AI in Creative Work](#week-8-reflecting-on-using-ai-in-creative-work) – Mar 12
+* [Week 9) Project Pitches & Creating with AI](#week-9-project-pitches--creating-with-ai) – Mar 26
+* [Week 10) Training RAG Models & Fine Tuning LLMs](#week-10-training-rag-models--fine-tuning-llms) – Apr 2
+* [Week 11) Project Prototype Presentations](#week-11-project-prototype-presentations) – Apr 9
+* [Week 12) Multiagent AI Systems. Creativity Support Tools.](#week-12-multiagent-ai-systems-creativity-support-tools) – Apr 16
+* [Week 13) Project Presentations & Critiques 1](#week-13-project-presentations--critiques-1) – Apr 23
+* [Week 14) Project Presentations & Critiques 2](#week-14-project-presentations--critiques-2) – Apr 30
+* [Final Deadlines](#final-deadlines)
+
 *All assignments and reading reflections will be due 24 hours before the next class. (i.e. 2 pm on Wednesdays)*
 
 
