@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Creativity and AI
+
 ## Instructor Information
 Safinah Ali
 safinah.ali@nyu.edu
