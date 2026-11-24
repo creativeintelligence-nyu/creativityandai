@@ -1,3 +1,4 @@
-### Course page for Creativity and AI course 
+# Creativity and AI 
 
-Enrollment: Undergrad 
+## Course Resources Repo
+
