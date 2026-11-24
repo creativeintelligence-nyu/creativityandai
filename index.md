@@ -4,12 +4,13 @@ layout: default
 
 ## Instructor Information
 Safinah Ali
-sa9140@nyu.edu
+safinah.ali@nyu.edu
  
 ## Class Information
 EDCT-UE 1042 (001) 
+Spring 2026 
 Thursday 2:00 - 3:15 PM
-Online 
+Format: Online 
  
 ## Office Hours
 Thursday 3:15 PM - 4 PM
@@ -35,7 +36,6 @@ Are modern AI systems capable of true creativity or are they simply stochastic p
  
 *All assignments and reading reflections will be due 24 hours before the next class. (i.e. 2 pm on Wednesdays)*
 
-<!-- [About](./about.html). -->
 
 
 ### Week 1) Creating with AI 
@@ -381,4 +381,7 @@ Project presentations and critiques (second slot).
 * Position Papers: 5/5
 
 **All materials must be submitted by this date.**
+
+[Course Logistics](./about.html).
+
 
